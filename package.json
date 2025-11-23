@@ -1,0 +1,25 @@
+{
+    "name": "girly-idea-dashboard",
+    "version": "1.0.0",
+    "description": "✨ Cute Web App Ideas Dashboard - for the girlies who code 💅",
+    "main": "index.html",
+    "scripts": {
+        "dev": "python3 -m http.server 8000",
+        "serve": "npx serve",
+        "deploy": "vercel --prod"
+    },
+    "keywords": [
+        "dashboard",
+        "web-app-ideas",
+        "retro",
+        "90s-aesthetic",
+        "static-site"
+    ],
+    "author": "",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YOUR_USERNAME/girly-idea-dashboard.git"
+    },
+    "homepage": "https://girly-idea-dashboard.vercel.app"
+}
