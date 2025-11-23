@@ -19,8 +19,8 @@ A beautiful, interactive dashboard showcasing adorable web app ideas with a retr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/girly-idea-dashboard.git
-cd girly-idea-dashboard
+git clone https://github.com/lynnettetee6/girlypop-ideas.git
+cd girlypop-ideas
 ```
 
 2. Open `index.html` in your browser or use a local server:
